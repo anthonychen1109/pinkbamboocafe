@@ -100,7 +100,7 @@ h6, h6 a, h6 a:link, h6 a:visited, h6 a:hover
 #art-page-background-gradient
 {
   position: absolute;
-  background-image: url('../images/page_g.jpg');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/page_g.jpg');
   background-repeat: repeat-x;
   top: 0;
   width: 100%;
@@ -112,7 +112,7 @@ h6, h6 a, h6 a:link, h6 a:visited, h6 a:hover
 #art-page-background-simple-gradient
 {
   position: absolute;
-  background-image: url('../images/page_sg.jpg');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/page_sg.jpg');
   background-repeat: repeat-x;
   top: 0;
   width: 100%;
@@ -171,7 +171,7 @@ table.position
 {
   width: 42px;
   height: 42px;
-  background-image: url('../images/sheet_s.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/sheet_s.png');
 }
 
 .art-sheet-tl
@@ -207,7 +207,7 @@ table.position
   left: 21px;
   right: 21px;
   height: 42px;
-  background-image: url('../images/sheet_h.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/sheet_h.png');
 }
 
 .art-sheet-tc
@@ -227,7 +227,7 @@ table.position
   top: 21px;
   bottom: 21px;
   width: 42px;
-  background-image: url('../images/sheet_v.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/sheet_v.png');
 }
 
 .art-sheet-cr
@@ -348,7 +348,7 @@ table.position
 
 .art-menu ul
 {
-  background-image: url('../images/spacer.gif');
+  background-image: url(/web/20161026025620im_/http://pinkbamboocafe.com/images/spacer.gif);
   padding: 10px 30px 30px 30px;
   margin: -10px 0 0 -30px;
 }
@@ -386,7 +386,7 @@ ul.art-menu
   z-index: -1;
   top: 0;
   height: 36px;
-  background-image: url('../images/nav.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/nav.png');
 }
 
 .art-nav .l
@@ -436,7 +436,7 @@ ul.art-menu
   top: 0;
   z-index: -1;
   height: 90px;
-  background-image: url('../images/menuitem.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/menuitem.png');
 }
 
 .art-menu a .l
@@ -505,7 +505,7 @@ ul.art-menu
   width: 180px;
   overflow: hidden;
   line-height: 26px;
-  background-image: url('../images/subitem.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/subitem.png');
   background-position: left top;
   background-repeat: repeat-x;
   border-width: 0;
@@ -582,7 +582,7 @@ div.art-header-jpeg
   left: 0;
   width: 945px;
   height: 376px;
-  background-image: url('../images/header.jpg');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/header.jpg');
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -616,7 +616,7 @@ div.art-layout-cell div.art-layout-cell
 
 div.art-content-layout-row
 {
-  display: table-row;
+  display: table-row; 
 }
 
 .art-content-layout
@@ -776,7 +776,7 @@ div.art-content-layout-row
   margin:0;
   padding: 0 10px 0 28px;
   white-space: nowrap;
-  line-height: 34px;
+  line-height: 34px;	
 }
 
 .art-blockheader .l, .art-blockheader .r
@@ -785,7 +785,7 @@ div.art-content-layout-row
   position: absolute;
   z-index: -1;
   height: 34px;
-  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/blockheader.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/blockheader.png');
 }
 
 .art-blockheader .l
@@ -857,7 +857,7 @@ div.art-content-layout-row
 {
   line-height: 1.25em;
   padding: 0 0 0 13px;
-  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/blockcontentbullets.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/blockcontentbullets.png');
   background-repeat: no-repeat;
 }
 
@@ -919,7 +919,7 @@ input, select, textarea, select
   font-size: 14px;
 }
 
-.art-block select
+.art-block select 
 {
     width:96%;
 }
@@ -943,7 +943,7 @@ input, select, textarea, select
   height: 108px;
   margin: 0;
   padding: 0;
-  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/button.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/button.png');
 }
 
 .art-button-wrapper .l
@@ -1144,7 +1144,7 @@ ol
 
 .art-post ul li, .art-post ol ul li
 {
-  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/postbullets.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/postbullets.png');
   background-repeat: no-repeat;
   padding-left: 14px;
 }
@@ -1195,7 +1195,7 @@ blockquote,
   position: absolute;
   z-index: -1;
   background-repeat: no-repeat;
-  background-image: url('../images/footer.png');
+  background-image: url('/web/20161026025620im_/http://pinkbamboocafe.com/images/footer.png');
   width: 945px;
   height: 150px;
   bottom: 0;
@@ -1278,7 +1278,7 @@ blockquote,
 }
 
 
-.overview-table-inner
+.overview-table-inner 
 {
     margin:10px;
 }
@@ -1307,8 +1307,8 @@ img.image
     border:none;
 }
 /*
-     FILE ARCHIVED ON 22:59:56 Oct 13, 2017 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:44:53 Dec 27, 2017.
+     FILE ARCHIVED ON 02:56:20 Oct 26, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:22:04 Dec 27, 2017.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.

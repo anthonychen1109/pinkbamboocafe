@@ -13,7 +13,7 @@ function procede()
 $(document).ready(function() {
 	$('.art-menu li').last().remove();
 	$('.art-menu').append('<li> <a href="media.shtml"><span class="l"></span><span class="r"></span><span class="t">Testimonials</span></a></li>');
-	$('.art-menu').append('<li> <a href="https://web.archive.org/web/20171013232150/http://pinkbamboocafe.abconlineorder.com/" target="_blank"><span class="l"></span><span class="r"></span><span class="t">Order</span></a></li>');
+	$('.art-menu').append('<li> <a href="https://web.archive.org/web/20161026091637/http://pinkbamboocafe.abconlineorder.com/" target="_blank"><span class="l"></span><span class="r"></span><span class="t">Order</span></a></li>');
 });
 }
 
@@ -412,8 +412,8 @@ artLoadEvent.add(function() { artButtonsSetupJsHover("art-button"); });
 
 
 /*
-     FILE ARCHIVED ON 23:21:50 Oct 13, 2017 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:36:49 Dec 27, 2017.
+     FILE ARCHIVED ON 09:16:37 Oct 26, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:22:04 Dec 27, 2017.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.

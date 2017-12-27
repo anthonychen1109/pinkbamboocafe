@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" lang="en-US"><head><script type="text/javascript" src="/static/js/analytics.js?v=1513849547.0" charset="utf-8"></script>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" lang="en-US"><head><script type="text/javascript" src="../static/js/analytics.js" charset="utf-8"></script>
 
-<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app39.us.archive.org';archive_analytics.values.server_ms=869;</script><script type="text/javascript" src="/static/js/wbhack.js?v=1513849547.0" charset="utf-8"></script>
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app18.us.archive.org';archive_analytics.values.server_ms=858;</script><script type="text/javascript" src="../static/js/wbhack.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
 </script>
-<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1513849547.0" />
-<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1513849547.0" />
+<link rel="stylesheet" type="text/css" href="../static/css/banner-styles.css" />
+<link rel="stylesheet" type="text/css" href="../static/css/iconochive.css" />
 
 <!-- End Wayback Rewrite JS Include --><!-- Created by Artisteer v2.4.0.25435 Base template (without user's data) checked by http://validator.w3.org : "This page is valid XHTML 1.0 Transitional" -->
 
@@ -22,14 +22,14 @@ __wbhack.init('https://web.archive.org/web');
 
 <title>Hours of Operation for Pink Bamboo Hot Pot Cafe, Hot Pot Dining, Chinese Restaurants in Portsmouth, NH, Dining in Portsmouth, NH</title><link rel="Shortcut Icon" href="/web/20170607092613im_/http://www.pinkbamboocafe.com:80/favicon.ico"/>
 
-<link media="screen" type="text/css" href="/web/20170607092613cs_/http://www.pinkbamboocafe.com:80/style.css" rel="stylesheet"/><!--[if IE 6]><link rel="stylesheet" href="style.ie6.css" type="text/css" media="screen" /><![endif]--><!--[if IE 7]><link rel="stylesheet" href="style.ie7.css" type="text/css" media="screen" /><![endif]-->
+<link media="screen" type="text/css" href="styles.css" rel="stylesheet"/><!--[if IE 6]><link rel="stylesheet" href="style.ie6.css" type="text/css" media="screen" /><![endif]--><!--[if IE 7]><link rel="stylesheet" href="style.ie7.css" type="text/css" media="screen" /><![endif]-->
 
-<script type="text/javascript" src="/web/20170607092613js_/http://www.pinkbamboocafe.com:80/script.js"></script></head>
+<script type="text/javascript" src="../static/js/script.js"></script></head>
 <body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
-<script type="text/javascript" src="/static/js/timestamp.js?v=1513849547.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/graph-calc.js?v=1513849547.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/auto-complete.js?v=1513849547.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/toolbar.js?v=1513849547.0" charset="utf-8"></script>
+<script type="text/javascript" src="../static/js/timestamp.js" charset="utf-8"></script>
+<script type="text/javascript" src="../static/js/graph-calc.js" charset="utf-8"></script>
+<script type="text/javascript" src="../static/js/auto-complete.js" charset="utf-8"></script>
+<script type="text/javascript" src="../static/js/toolbar.js" charset="utf-8"></script>
 
 <style type="text/css">
 body {
@@ -50,7 +50,7 @@ body {
 <div id="wm-ipp-inside">
   <div style="position:relative;">
     <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
-      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+      <a href="/web/" title="Wayback Machine home page"><img src="../static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
     </div>
     <div class="r" style="float:right;">
       <div id="wm-btns" style="text-align:right;height:25px;">
@@ -173,7 +173,7 @@ __wm.bt(550,27,25,2,"web","http://www.pinkbamboocafe.com:80/hours.shtml","2017-0
 <div class="r"></div>
 <ul class="art-menu">
 <li><!--#include virtual="includes/addthis.html" --></li>
-<li> <a href="../index.shtml" class="active"><span class="l"></span><span class="r"></span><span class="t">Home</span></a> </li>
+<li> <a href="index.html" class="active"><span class="l"></span><span class="r"></span><span class="t">Home</span></a> </li>
 <li> <a href="frames/menu.php"><span class="l"></span><span class="r"></span><span class="t">Menu</span></a>
 <ul>
 <li><a href="frames/menu.php">View Our Menu</a></li>
@@ -186,7 +186,7 @@ __wm.bt(550,27,25,2,"web","http://www.pinkbamboocafe.com:80/hours.shtml","2017-0
 <li> <a href="#"><span class="l"></span><span class="r"></span><span class="t">Restaurant
 Info</span></a>
 <ul>
-<li><a href="./restaurant_info/hours.shtml">Hours of Operation</a>
+<li><a href="hours.shtml">Hours of Operation</a>
 </li>
 <li><a href="lounge.shtml">Lounge and Bar</a></li>
 <li><a href="catering.shtml">Catering</a></li>
@@ -214,8 +214,8 @@ Map</a></li>
 <tr>
 <td align="center" valign="top" width="340"></td>
 <td align="center" valign="top" width="600">
-<img alt="128 Penhallow Street, Portsmouth, NH 03801 - 603.319.8809 &amp; 603.319.8807" title="128 Penhallow Street, Portsmouth, NH 03801 - 603.319.8809 &amp; 603.319.8807" src="/web/20170607092613im_/http://www.pinkbamboocafe.com:80/images_pbc/address/address.gif" height="35" vspace="0" width="600"/><br/>
-<img alt="Pink Bamboo Hot Pot Cafe" title="Pink Bamboo Hot Pot Cafe" src="/web/20170607092613im_/http://www.pinkbamboocafe.com:80/photos/homepage/rounded/rounded_10.jpg" height="300" vspace="8" width="522"/>
+<img alt="128 Penhallow Street, Portsmouth, NH 03801 - 603.319.8809 &amp; 603.319.8807" title="128 Penhallow Street, Portsmouth, NH 03801 - 603.319.8809 &amp; 603.319.8807" src="../images_pbc/address/address.gif" height="35" vspace="0" width="600"/><br/>
+<img alt="Pink Bamboo Hot Pot Cafe" title="Pink Bamboo Hot Pot Cafe" src="./hours/images/rounded_10.jpg" height="300" vspace="8" width="522"/>
 </td>
 </tr>
 
@@ -260,7 +260,7 @@ tables.
 We hope to see you soon at Pink Bamboo Hot Pot Cafe.
 </td>
 <td align="center" valign="top" width="200">
-<img alt="Pink Bamboo Hot Pot Cafe" title="Pink Bamboo Hot Pot Cafe" src="/web/20170607092613im_/http://www.pinkbamboocafe.com:80/photos/sides/other/other_2.jpg" height="165" width="197"/> <img alt="Pink Bamboo Hot Pot Cafe" title="Pink Bamboo Hot Pot Cafe" src="/web/20170607092613im_/http://www.pinkbamboocafe.com:80/photos/sides/other/other_3.jpg" height="158" width="200"/></td>
+<img alt="Pink Bamboo Hot Pot Cafe" title="Pink Bamboo Hot Pot Cafe" src="./hours/images/other_2.jpg" height="165" width="197"/> <img alt="Pink Bamboo Hot Pot Cafe" title="Pink Bamboo Hot Pot Cafe" src="./hours/images/other_3.jpg" height="158" width="200"/></td>
 </tr>
 </tbody>
 </table>
@@ -269,7 +269,7 @@ We hope to see you soon at Pink Bamboo Hot Pot Cafe.
 <div class="cleared"></div>
 </div>
 </div>
-<div align="center"><img alt="We accept these cards." title="We accept these cards." src="/web/20170607092613im_/http://www.pinkbamboocafe.com:80/images_pbc/creditcards/ccards.jpg" height="42" width="175"/><br/>
+<div align="center"><img alt="We accept these cards." title="We accept these cards." src="../images_pbc/creditcards/ccards.jpg" height="42" width="175"/><br/>
 <br/>
 <b><font color="#993300">PINK BAMBOO HOT POT CAFE</font></b><br/>
 <font color="#993300">128 Penhallow Street, Portsmouth, NH

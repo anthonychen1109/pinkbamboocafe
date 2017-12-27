@@ -100,7 +100,7 @@ h6, h6 a, h6 a:link, h6 a:visited, h6 a:hover
 #art-page-background-gradient
 {
   position: absolute;
-  background-image: url('../images/page_g.jpg');
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/page_g.jpg');
   background-repeat: repeat-x;
   top: 0;
   width: 100%;
@@ -112,7 +112,7 @@ h6, h6 a, h6 a:link, h6 a:visited, h6 a:hover
 #art-page-background-simple-gradient
 {
   position: absolute;
-  background-image: url('../images/page_sg.jpg');
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/page_sg.jpg');
   background-repeat: repeat-x;
   top: 0;
   width: 100%;
@@ -171,7 +171,7 @@ table.position
 {
   width: 42px;
   height: 42px;
-  background-image: url('../images/sheet_s.png');
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/sheet_s.png');
 }
 
 .art-sheet-tl
@@ -207,7 +207,7 @@ table.position
   left: 21px;
   right: 21px;
   height: 42px;
-  background-image: url('../images/sheet_h.png');
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/sheet_h.png');
 }
 
 .art-sheet-tc
@@ -227,7 +227,7 @@ table.position
   top: 21px;
   bottom: 21px;
   width: 42px;
-  background-image: url('../images/sheet_v.png');
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/sheet_v.png');
 }
 
 .art-sheet-cr
@@ -348,7 +348,7 @@ table.position
 
 .art-menu ul
 {
-  background-image: url('../images/spacer.gif');
+  background-image: url(/web/20171013225956im_/http://pinkbamboocafe.com/images/spacer.gif);
   padding: 10px 30px 30px 30px;
   margin: -10px 0 0 -30px;
 }
