@@ -182,7 +182,7 @@ __wm.bt(550,27,25,2,"web","http://pinkbamboocafe.com/","2017-09-19",1996);
 <div class="r"></div>
 <ul class="art-menu">
 <li><!--#include virtual="includes/addthis.html" --></li>
-<li> <a href="index.html" class="active"><span class="l"></span><span class="r"></span><span class="t">Home</span></a> </li>
+<li> <a href="index.shtml" class="active"><span class="l"></span><span class="r"></span><span class="t">Home</span></a> </li>
 <li> <a href="frames/menu.php"><span class="l"></span><span class="r"></span><span class="t">Menu</span></a>
 <ul>
 <li><a href="frames/menu.php">View Our Menu</a></li>
@@ -195,7 +195,7 @@ __wm.bt(550,27,25,2,"web","http://pinkbamboocafe.com/","2017-09-19",1996);
 <li> <a href="#"><span class="l"></span><span class="r"></span><span class="t">Restaurant
 Info</span></a>
 <ul>
-<li><a href="hours.shtml">Hours of Operation</a>
+<li><a href="restaurant_info/hours.shtml">Hours of Operation</a>
 </li>
 <li><a href="lounge.shtml">Lounge and Bar</a></li>
 <li><a href="catering.shtml">Catering</a></li>

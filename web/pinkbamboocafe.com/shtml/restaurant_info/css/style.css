@@ -1,0 +1,1316 @@
+/* begin Page */
+
+/* Generated with Artisteer version 2.4.0.25435, file checksum is E4D27CA7. */
+
+body
+{
+  margin: 0 auto;
+  padding: 0;
+  background-color: #C75829;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-size: 14px;
+  color: #454C43;
+}
+
+h1, h2, h3, h4, h5, h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover
+h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited,
+.art-postheader, .art-postheader a, .art-postheader a:link, .art-postheader a:visited, .art-postheader a:hover,
+.art-blockheader .t, .art-vmenublockheader .t, .art-logo-text, .art-logo-text a,
+h1.art-logo-name, h1.art-logo-name a, h1.art-logo-name a:link, h1.art-logo-name a:visited, h1.art-logo-name a:hover
+{
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+  font-size: 35px;
+}
+
+a
+{
+  text-decoration: underline;
+  color: #AE4D24;
+}
+
+a:link
+{
+  text-decoration: underline;
+  color: #AE4D24;
+}
+
+a:visited, a.visited
+{
+
+  color: #AE4D24;
+}
+
+a:hover, a.hover
+{
+  text-decoration: none;
+  color: #396A2F;
+}
+
+h1, h1 a, h1 a:link, h1 a:visited, h1 a:hover
+{
+
+  color: #4D544A;
+}
+
+h2, h2 a, h2 a:link, h2 a:visited, h2 a:hover
+{
+  font-size: 26px;
+  color: #666F62;
+}
+
+h3, h3 a, h3 a:link, h3 a:visited, h3 a:hover
+{
+  font-size: 21px;
+  color: #8B7D46;
+}
+
+h4, h4 a, h4 a:link, h4 a:visited, h4 a:hover
+{
+  font-size: 18px;
+  color: #575F54;
+}
+
+h5, h5 a, h5 a:link, h5 a:visited, h5 a:hover
+{
+  font-size: 14px;
+  color: #575F54;
+}
+
+h6, h6 a, h6 a:link, h6 a:visited, h6 a:hover
+{
+  font-size: 12px;
+  color: #575F54;
+}
+
+#art-main
+{
+  position: relative;
+  width: 100%;
+  left: 0;
+  top: 0;
+  cursor:default;
+}
+
+
+#art-page-background-gradient
+{
+  position: absolute;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/page_g.jpg');
+  background-repeat: repeat-x;
+  top: 0;
+  width: 100%;
+  height: 500px;
+
+}
+
+
+#art-page-background-simple-gradient
+{
+  position: absolute;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/page_sg.jpg');
+  background-repeat: repeat-x;
+  top: 0;
+  width: 100%;
+  height: 500px;
+}
+
+.cleared
+{
+  float: none;
+  clear: both;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 1px;
+}
+
+form
+{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+table.position
+{
+  position: relative;
+  width: 100%;
+  table-layout: fixed;
+}
+/* end Page */
+
+/* begin Box, Sheet */
+.art-sheet
+{
+  position: relative;
+  z-index: 0;
+  margin: 0 auto;
+  width: 949px;
+  min-width: 43px;
+  min-height: 43px;
+}
+
+.art-sheet-body
+{
+  position: relative;
+  z-index: 1;
+  padding: 2px;
+}
+
+.art-sheet-tr, .art-sheet-tl, .art-sheet-br, .art-sheet-bl, .art-sheet-tc, .art-sheet-bc,.art-sheet-cr, .art-sheet-cl
+{
+  position: absolute;
+  z-index: -1;
+}
+
+.art-sheet-tr, .art-sheet-tl, .art-sheet-br, .art-sheet-bl
+{
+  width: 42px;
+  height: 42px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/sheet_s.png');
+}
+
+.art-sheet-tl
+{
+  top: 0;
+  left: 0;
+  clip: rect(auto, 21px, 21px, auto);
+}
+
+.art-sheet-tr
+{
+  top: 0;
+  right: 0;
+  clip: rect(auto, auto, 21px, 21px);
+}
+
+.art-sheet-bl
+{
+  bottom: 0;
+  left: 0;
+  clip: rect(21px, 21px, auto, auto);
+}
+
+.art-sheet-br
+{
+  bottom: 0;
+  right: 0;
+  clip: rect(21px, auto, auto, 21px);
+}
+
+.art-sheet-tc, .art-sheet-bc
+{
+  left: 21px;
+  right: 21px;
+  height: 42px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/sheet_h.png');
+}
+
+.art-sheet-tc
+{
+  top: 0;
+  clip: rect(auto, auto, 21px, auto);
+}
+
+.art-sheet-bc
+{
+  bottom: 0;
+  clip: rect(21px, auto, auto, auto);
+}
+
+.art-sheet-cr, .art-sheet-cl
+{
+  top: 21px;
+  bottom: 21px;
+  width: 42px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/sheet_v.png');
+}
+
+.art-sheet-cr
+{
+  right: 0;
+  clip: rect(auto, auto, auto, 21px);
+}
+
+.art-sheet-cl
+{
+  left: 0;
+  clip: rect(auto, 21px, auto, auto);
+}
+
+.art-sheet-cc
+{
+  position: absolute;
+  z-index: -1;
+  top: 21px;
+  left: 21px;
+  right: 21px;
+  bottom: 21px;
+  background-color: #F0EDE0;
+}
+
+.art-sheet
+{
+  margin-top: 10px !important;
+  cursor:auto;
+}
+
+#art-page-background-simple-gradient, #art-page-background-gradient, #art-page-background-glare
+{
+  min-width: 949px;
+}
+
+/* end Box, Sheet */
+
+/* begin Menu */
+/* menu structure */
+
+.art-menu a, .art-menu a:link, .art-menu a:visited, .art-menu a:hover
+{
+  text-align: left;
+  text-decoration: none;
+  outline: none;
+  letter-spacing: normal;
+  word-spacing: normal;
+}
+
+.art-menu, .art-menu ul
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style-type: none;
+  display: block;
+}
+
+.art-menu li
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: block;
+  float: left;
+  position: relative;
+  z-index: 5;
+  background: none;
+}
+
+.art-menu li:hover
+{
+  z-index: 10000;
+  white-space: normal;
+}
+
+.art-menu li li
+{
+  float: none;
+}
+
+.art-menu ul
+{
+  visibility: hidden;
+  position: absolute;
+  z-index: 10;
+  left: 0;
+  top: 0;
+  background: none;
+}
+
+.art-menu li:hover>ul
+{
+  visibility: visible;
+  top: 100%;
+}
+
+.art-menu li li:hover>ul
+{
+  top: 0;
+  left: 100%;
+}
+
+.art-menu:after, .art-menu ul:after
+{
+  content: ".";
+  height: 0;
+  display: block;
+  visibility: hidden;
+  overflow: hidden;
+  clear: both;
+}
+.art-menu, .art-menu ul
+{
+  min-height: 0;
+}
+
+.art-menu ul
+{
+  background-image: url(/web/20171013225956im_/http://pinkbamboocafe.com/images/spacer.gif);
+  padding: 10px 30px 30px 30px;
+  margin: -10px 0 0 -30px;
+}
+
+.art-menu ul ul
+{
+  padding: 30px 30px 30px 10px;
+  margin: -30px 0 0 -10px;
+}
+
+ul.art-menu
+{
+  float: right;
+}
+
+
+
+/* menu structure */
+
+.art-menu
+{
+  padding: 6px 19px 0 19px;
+}
+
+.art-nav
+{
+  position: relative;
+  height: 36px;
+  z-index: 100;
+}
+
+.art-nav .l, .art-nav .r
+{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  height: 36px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/nav.png');
+}
+
+.art-nav .l
+{
+  left: 0;
+  right: 19px;
+}
+
+.art-nav .r
+{
+  right: 0;
+  width: 945px;
+  clip: rect(auto, auto, auto, 926px);
+}
+
+
+/* end Menu */
+
+/* begin MenuItem */
+.art-menu a
+{
+  position: relative;
+  display: block;
+  overflow: hidden;
+  height: 30px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.art-menu li
+{
+  margin-right: 3px;
+  margin-left: 3px;
+}
+
+.art-menu ul li
+{
+    margin:0;
+    clear: both;
+}
+
+
+.art-menu a .r, .art-menu a .l
+{
+  position: absolute;
+  display: block;
+  top: 0;
+  z-index: -1;
+  height: 90px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/menuitem.png');
+}
+
+.art-menu a .l
+{
+  left: 0;
+  right: 9px;
+}
+
+.art-menu a .r
+{
+  width: 418px;
+  right: 0;
+  clip: rect(auto, auto, auto, 409px);
+}
+
+.art-menu a .t
+{
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 14px;
+  color: #CFFDBF;
+  padding: 0 13px;
+  margin: 0 9px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.art-menu a:hover .l, .art-menu a:hover .r
+{
+  top: -30px;
+}
+
+.art-menu li:hover>a .l, .art-menu li:hover>a .r
+{
+  top: -30px;
+}
+
+.art-menu li:hover a .l, .art-menu li:hover a .r
+{
+  top: -30px;
+}
+.art-menu a:hover .t
+{
+  color: #873C1C;
+}
+
+.art-menu li:hover a .t
+{
+  color: #873C1C;
+}
+
+.art-menu li:hover>a .t
+{
+  color: #873C1C;
+}
+
+/* end MenuItem */
+
+/* begin MenuSubItem */
+.art-menu ul a
+{
+  display: block;
+  text-align: center;
+  white-space: nowrap;
+  height: 26px;
+  width: 180px;
+  overflow: hidden;
+  line-height: 26px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/subitem.png');
+  background-position: left top;
+  background-repeat: repeat-x;
+  border-width: 0;
+  border-style: solid;
+}
+
+.art-nav ul.art-menu ul span, .art-nav ul.art-menu ul span span
+{
+  display: inline;
+  float: none;
+  margin: inherit;
+  padding: inherit;
+  background-image: none;
+  text-align: inherit;
+  text-decoration: inherit;
+}
+
+.art-menu ul a, .art-menu ul a:link, .art-menu ul a:visited, .art-menu ul a:hover, .art-menu ul a:active, .art-nav ul.art-menu ul span, .art-nav ul.art-menu ul span span
+{
+  text-align: left;
+  text-indent: 12px;
+  text-decoration: none;
+  line-height: 26px;
+  color: #474024;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 13px;
+  margin:0;
+  padding:0;
+}
+
+.art-menu ul li a:hover
+{
+  color: #0A0905;
+  background-position: 0 -26px;
+}
+
+.art-menu ul li:hover>a
+{
+  color: #0A0905;
+  background-position: 0 -26px;
+}
+
+.art-nav .art-menu ul li a:hover span, .art-nav .art-menu ul li a:hover span span
+{
+  color: #0A0905;
+}
+
+.art-nav .art-menu ul li:hover>a span, .art-nav .art-menu ul li:hover>a span span
+{
+  color: #0A0905;
+}
+
+
+/* end MenuSubItem */
+
+/* begin Header */
+div.art-header
+{
+  margin: 0 auto;
+  position: relative;
+  z-index: 0;
+  width: 945px;
+  height: 376px;
+  overflow: hidden;
+}
+
+
+div.art-header-jpeg
+{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 945px;
+  height: 376px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/header.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/* end Header */
+
+/* begin Layout */
+.art-content-layout
+{
+  display: table;
+  padding: 0;
+  border: none;
+  width: 945px;
+}
+
+.art-content-layout .art-content-layout
+{
+  width: auto;
+  margin:0;
+}
+
+div.art-content-layout div.art-layout-cell, div.art-content-layout div.art-layout-cell div.art-content-layout div.art-layout-cell
+{
+   display: table-cell;
+}
+
+div.art-layout-cell div.art-layout-cell
+{
+   display: block;
+}
+
+div.art-content-layout-row
+{
+  display: table-row; 
+}
+
+.art-content-layout
+{
+  table-layout: fixed;
+  border-collapse: collapse;
+  background-color: #FFFFFF:
+  border: none !important;
+  padding:0 !important;
+}
+
+.art-layout-cell, .art-content-layout-row
+{
+  background-color: #FFFFFF;
+  vertical-align: top;
+  text-align: left;
+  border: none !important;
+  margin:0 !important;
+  padding:0 !important;
+}
+/* end Layout */
+
+/* begin Box, Block, VMenuBlock */
+.art-vmenublock
+{
+  position: relative;
+  z-index: 0;
+  margin: 0 auto;
+  min-width: 1px;
+  min-height: 1px;
+}
+
+.art-vmenublock-body
+{
+  position: relative;
+  z-index: 1;
+  padding: 0;
+}
+
+.art-vmenublock-cc
+{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #FFFFFF;
+}
+
+.art-vmenublock
+{
+  margin: 7px;
+}
+
+/* end Box, Block, VMenuBlock */
+
+/* begin Box, Box, VMenuBlockContent */
+.art-vmenublockcontent
+{
+  position: relative;
+  z-index: 0;
+  margin: 0 auto;
+  min-width: 1px;
+  min-height: 1px;
+}
+
+.art-vmenublockcontent-body
+{
+  position: relative;
+  z-index: 1;
+  padding: 5px;
+}
+
+.art-vmenublockcontent-cc
+{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #FFFFFF;
+}
+
+.art-vmenublockcontent
+{
+  position: relative;
+  z-index: 0;
+  margin: 0 auto;
+  min-width: 1px;
+  min-height: 1px;
+}
+
+.art-vmenublockcontent-body
+{
+  position: relative;
+  z-index: 1;
+  padding: 5px;
+}
+
+.art-vmenublockcontent-cc
+{
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #FFFFFF;
+}
+
+/* end Box, Box, VMenuBlockContent */
+
+/* begin Box, Block */
+.art-block
+{
+  position: relative;
+  z-index: 0;
+  margin: 0 auto;
+  min-width: 1px;
+  min-height: 1px;
+}
+
+.art-block-body
+{
+  position: relative;
+  z-index: 1;
+  padding: 0;
+}
+
+
+.art-block
+{
+  margin: 7px;
+}
+
+/* end Box, Block */
+
+/* begin BlockHeader */
+.art-blockheader
+{
+  position: relative;
+  z-index: 0;
+  height: 34px;
+  margin-bottom: 0;
+}
+
+.art-blockheader .t
+{
+  height: 34px;
+  color: #000000;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+  font-size: 14px;
+  margin:0;
+  padding: 0 10px 0 28px;
+  white-space: nowrap;
+  line-height: 34px;	
+}
+
+.art-blockheader .l, .art-blockheader .r
+{
+  display: block;
+  position: absolute;
+  z-index: -1;
+  height: 34px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/blockheader.png');
+}
+
+.art-blockheader .l
+{
+  left: 0;
+  right: 22px;
+}
+
+.art-blockheader .r
+{
+  width: 945px;
+  right: 0;
+  clip: rect(auto, auto, auto, 923px);
+}
+
+/* end BlockHeader */
+
+/* begin Box, BlockContent */
+.art-blockcontent
+{
+  position: relative;
+  z-index: 0;
+  margin: 0 auto;
+  min-width: 1px;
+  min-height: 1px;
+}
+
+.art-blockcontent-body
+{
+  position: relative;
+  z-index: 1;
+  padding: 7px;
+}
+
+
+.art-blockcontent-body
+{
+  color: #454C43;
+  font-size: 14px;
+}
+
+.art-blockcontent-body a:link
+{
+  color: #695F35;
+
+}
+
+.art-blockcontent-body a:visited, .art-blockcontent-body a.visited
+{
+  color: #8B7D46;
+  text-decoration: none;
+}
+
+.art-blockcontent-body a:hover, .art-blockcontent-body a.hover
+{
+  color: #000000;
+  text-decoration: none;
+}
+
+.art-blockcontent-body ul
+{
+  list-style-type: none;
+  color: #232622;
+  margin: 0;
+  padding: 0;
+}
+
+.art-blockcontent-body ul li
+{
+  line-height: 1.25em;
+  padding: 0 0 0 13px;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/blockcontentbullets.png');
+  background-repeat: no-repeat;
+}
+
+
+/* end Box, BlockContent */
+
+/* begin Button */
+.art-button-wrapper .art-button
+{
+  font-size: 14px;
+  display: inline-block;
+  vertical-align: middle;
+  white-space: nowrap;
+  text-align: left;
+  text-decoration: none !important;
+  color: #000000 !important;
+  width: auto;
+  outline: none;
+  border: none;
+  background: none;
+  line-height: 36px;
+  height: 36px;
+  margin: 0;
+  padding: 0 21px !important;
+  overflow: visible;
+  cursor: default;
+  z-index: 0;
+}
+
+.art-button img, .art-button-wrapper img
+{
+  margin: 0;
+  vertical-align: middle;
+}
+
+.art-button-wrapper
+{
+  vertical-align: middle;
+  display: inline-block;
+  position: relative;
+  height: 36px;
+  overflow: hidden;
+  white-space: nowrap;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  z-index: 0;
+}
+
+.firefox2 .art-button-wrapper
+{
+  display: block;
+  float: left;
+}
+
+input, select, textarea, select
+{
+  vertical-align: middle;
+  font-size: 14px;
+}
+
+.art-block select 
+{
+    width:96%;
+}
+
+.art-button-wrapper.hover .art-button, .art-button:hover
+{
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+
+.art-button-wrapper.active .art-button
+{
+  color: #FCF9ED !important;
+}
+
+.art-button-wrapper .l, .art-button-wrapper .r
+{
+  display: block;
+  position: absolute;
+  z-index: -1;
+  height: 108px;
+  margin: 0;
+  padding: 0;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/button.png');
+}
+
+.art-button-wrapper .l
+{
+  left: 0;
+  right: 11px;
+}
+
+.art-button-wrapper .r
+{
+  width: 411px;
+  right: 0;
+  clip: rect(auto, auto, auto, 400px);
+}
+
+.art-button-wrapper.hover .l, .art-button-wrapper.hover .r
+{
+  top: -36px;
+}
+
+.art-button-wrapper.active .l, .art-button-wrapper.active .r
+{
+  top: -72px;
+}
+
+.art-button-wrapper input
+{
+  float: none !important;
+}
+/* end Button */
+
+/* begin Box, Post */
+.art-post
+{
+  position: relative;
+  z-index: 0;
+  margin: 0 auto;
+  min-width: 1px;
+  min-height: 1px;
+}
+
+.art-post-body
+{
+  position: relative;
+  z-index: 1;
+  padding: 10px;
+}
+
+
+.art-post
+{
+  margin: 7px;
+}
+
+a img
+{
+  border: 0;
+}
+
+.art-article img, img.art-article
+{
+  margin: 10px;
+}
+
+.art-metadata-icons img
+{
+  border: none;
+  vertical-align: middle;
+  margin: 2px;
+}
+
+.art-article table, table.art-article
+{
+  border-collapse: collapse;
+  margin: 1px;
+  width: auto;
+}
+
+.art-article table, table.art-article .art-article tr, .art-article th, .art-article td
+{
+  background-color: #FFFFFF;
+}
+
+
+.art-article th
+{
+  text-align: center;
+  vertical-align: middle;
+  padding: 7px;
+}
+
+pre
+{
+  overflow: auto;
+  padding: 0.1em;
+}
+
+/* end Box, Post */
+
+/* begin PostHeaderIcon */
+.art-postheader
+{
+  margin: 0.2em 0;
+  padding: 0;
+  font-size: 26px;
+  color: #343932;
+}
+
+.art-postheader a, .art-postheader a:link, .art-postheader a:visited, .art-postheader a:hover
+{
+  font-size: 26px;
+  margin: 0;
+  color: #343932;
+}
+
+/* end PostHeaderIcon */
+
+/* begin PostHeader */
+.art-postheader a:link
+{
+  text-align: left;
+  text-decoration: none;
+  color: #584F2C;
+}
+
+.art-postheader a:visited, .art-postheader a.visited
+{
+
+  color: #575F54;
+}
+
+.art-postheader a:hover, .art-postheader a.hovered
+{
+
+  color: #B7951A;
+}
+/* end PostHeader */
+
+/* begin PostContent */
+.art-postcontent p
+{
+  margin: 0.5em 0;
+}
+
+
+
+.art-postcontent
+{
+  margin: 0;
+}
+/* end PostContent */
+
+/* begin PostBullets */
+ol, ul
+{
+  color: #343932;
+  margin: 1em 0 1em 2em;
+  padding: 0;
+  font-size: 14px;
+}
+
+li ol, li ul
+{
+  margin: 0.5em 0 0.5em 2em;
+  padding: 0;
+}
+
+li
+{
+  margin: 0.2em 0;
+  padding: 0;
+}
+
+ul
+{
+  list-style-type: none;
+}
+
+ol
+{
+  list-style-position: inside;
+
+}
+
+
+
+.art-post li
+{
+  padding: 0 0 0 14px;
+  line-height: 1em;
+}
+
+.art-post ol li, .art-post ul ol li
+{
+  background: none;
+  padding-left: 0;
+}
+
+.art-post ul li, .art-post ol ul li
+{
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/postbullets.png');
+  background-repeat: no-repeat;
+  padding-left: 14px;
+}
+
+
+/* end PostBullets */
+
+/* begin PostQuote */
+blockquote,
+blockquote p,
+.art-postcontent blockquote p
+{
+  color: #F0EDE0;
+
+}
+
+blockquote,
+.art-postcontent blockquote
+{
+  margin: 10px 10px 10px 50px;
+  padding: 5px 5px 5px 5px;
+  background-color: #F0EDE0;
+}
+
+/* end PostQuote */
+
+/* begin Footer */
+.art-footer
+{
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  width: 945px;
+  margin: 0 auto;
+}
+
+.art-footer .art-footer-inner
+{
+  height: 1%;
+  position: relative;
+  z-index: 0;
+  padding: 25px;
+  text-align: center;
+}
+
+.art-footer .art-footer-background
+{
+  position: absolute;
+  z-index: -1;
+  background-repeat: no-repeat;
+  background-image: url('/web/20171013225956im_/http://pinkbamboocafe.com/images/footer.png');
+  width: 945px;
+  height: 150px;
+  bottom: 0;
+  left: 0;
+}
+
+
+.art-footer .art-footer-text p
+{
+  margin: 0;
+}
+
+.art-footer .art-footer-text
+{
+  display: inline-block;
+  color: #2F2B18;
+
+}
+
+.art-footer .art-footer-text a:link
+{
+  color: #AE4D24;
+  text-decoration: none;
+}
+
+.art-footer .art-footer-text a:visited
+{
+  text-decoration: none;
+  color: #AE4D24;
+
+}
+
+.art-footer .art-footer-text a:hover
+{
+  text-decoration: none;
+  color: #396A2F;
+
+}
+/* end Footer */
+
+/* begin PageFooter */
+.art-page-footer, .art-page-footer a, .art-page-footer a:link, .art-page-footer a:visited, .art-page-footer a:hover
+{
+  font-family: Arial;
+  font-size: 10px;
+  letter-spacing: normal;
+  word-spacing: normal;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #E4C144;
+}
+
+.art-page-footer
+{
+  margin: 1em;
+  text-align: center;
+  text-decoration: none;
+  color: #B7A971;
+}
+/* end PageFooter */
+
+/* begin LayoutCell, content */
+.art-content-layout .art-content
+{
+  width: 100%;
+}
+.art-content-layout .art-content .art-block
+{
+  background-color: #FFFFFF;
+}
+/* end LayoutCell, content */
+
+
+
+
+.overview-table .art-layout-cell
+{
+    width:33%;
+}
+
+
+.overview-table-inner 
+{
+    margin:10px;
+}
+
+table.table
+{
+    width:100%;
+    border-collapse:collapse;
+    table-layout:fixed;
+    text-align:left;
+    vertical-align:top;
+}
+
+table.table, table.table tr, table.table td
+{
+    border:none;
+    margin:0;
+    padding:0;
+    background-color:Transparent;
+}
+
+img.image
+{
+    margin:0;
+    padding:0;
+    border:none;
+}
+/*
+     FILE ARCHIVED ON 22:59:56 Oct 13, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:36:43 Dec 27, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
