@@ -1,6 +1,6 @@
 
 var jq = document.createElement('script');
-jq.src = "/jquery-1.11.0.min.js";
+jq.src = "../../static/js/jquery-1.11.0.min.js";
 document.querySelector('head').appendChild(jq);
 
 jq.onload = procede;//DON'T TYPE PARENTHESIS
